@@ -1,6 +1,6 @@
 awe.js
 ======
-
+ 
 What is awe.js?
 ---------------
 It's the quickest and easiest way to create Augmented Web applications.
